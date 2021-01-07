@@ -19,3 +19,7 @@ adjusted to my own taste so I can get up and running faster.
 ```
 yarn create @woubuc/nuxt-app <name>
 ```
+
+Note: if you have used `yarn create nuxt-app` in the past, Yarn will try to run
+that instead of this one. You will have to uninstall the global package first
+with `yarn global remove create-nuxt-app`.
