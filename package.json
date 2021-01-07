@@ -1,0 +1,14 @@
+{
+  "name": "@woubuc/create-nuxt-app",
+  "version": "1.0.3",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "create-nuxt-app": "./index.js"
+  },
+  "dependencies": {
+    "cross-spawn": "^7.0.3",
+    "fs-extra": "^9.0.1",
+    "validate-npm-package-name": "^3.0.0"
+  }
+}
