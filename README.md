@@ -3,7 +3,7 @@ A simple [Nuxt](https://nuxtjs.org) scaffolding script that sets up:
 
 - A Nuxt project configured for a static generated site
 - Typescript support through [`nuxt/typescript`](https://typescript.nuxtjs.org/) and [`nuxt-property-decorator`](https://github.com/nuxt-community/nuxt-property-decorator)
-- [Tailwind CSS](https://tailwindcss.com/) v2 support through [`nuxt/tailwind`](https://tailwindcss.nuxtjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/) v2 support (incl. JIT) through [`nuxt/tailwind`](https://tailwindcss.nuxtjs.org/)
 - Internationalisation support through [`nuxt/i18n`](https://i18n.nuxtjs.org/)
 
 Based on a project created by the official `create-nuxt-app` tool, then 

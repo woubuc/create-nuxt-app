@@ -1,5 +1,5 @@
 const dependencies = [
-	'@nuxt/typescript-runtime',
+	'@nuxt/typescript-runtime@2.0',
 	'core-js',
 	'nuxt',
 	'nuxt-i18n',
@@ -8,11 +8,11 @@ const dependencies = [
 
 const devDependencies = [
 	'@nuxt/types',
-	'@nuxt/typescript-build',
+	'@nuxt/typescript-build@2.0',
 	'@nuxtjs/svg',
 	'@nuxtjs/tailwindcss',
-	'tailwindcss@compat',
-	'typescript@4.0',
+	'postcss',
+	'typescript@4.1',
 ];
 
 module.exports = { dependencies, devDependencies };

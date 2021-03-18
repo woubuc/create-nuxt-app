@@ -46,4 +46,8 @@ export default {
 		langDir: './i18n/',
 		defaultLocale: 'en',
 	},
+
+	tailwindcss: {
+		jit: true,
+	},
 };
